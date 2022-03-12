@@ -2,7 +2,7 @@
  para usar o grid usamos para definir as colunas `grid-template-column: ;` e para as linhas usamos `grid-template-rows: ;` podemos definir quantas colunas quisermos até 12 as linhas não tem limite
  * para definir-mos os tamanhos das colunas 
 ```` css
-grid-template-column: 100px 300px auto ;
+grid-template-columns: 100px 300px auto ;
 ```` 
   a primeira coluna terá 100 píxeis de largura a segunda 300 e as demais largura automáticas
  * para definir-mos a altura das linhas
